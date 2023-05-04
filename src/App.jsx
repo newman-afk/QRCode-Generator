@@ -1,6 +1,6 @@
 import QRCode from "qrcode";
 import { useRef, useState } from "react";
-import ICON from "./assets/下载.svg";
+import ICON from "./assets/icon.svg";
 
 function App() {
   const [showResult, setShowResult] = useState(false);
